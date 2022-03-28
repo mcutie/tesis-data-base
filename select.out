@@ -1,0 +1,90 @@
+ 2011  1 2 0435 19.4 R  19.549 -73.127  5.0  CUB  4 0.3 2.5LCUB 3.0CCUB        1
+ GAP=337        0.80     455.4   999.9999.9 -0.1609E+07  0.9204E+07 -0.1186E+07E
+ ACTION:UP  13-09-16 14:55 OP:Mary STATUS:               ID:20110102043559     I
+ 2011-01-02-0435-59S.LMGC__003                                                 6
+ 2011-01-02-0434-40S.MASC__003                                                 6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+ MASC BZ EP        435 40.63   82                         40   -0.0410  135 301 
+ MASC BN ES        435 56.40                              40    0.0110  135 301 
+ MASC BE  IAML     435 58.57       645.7 0.18                           135 301 
+ MASC BN  IAML     435 59.06       832.0 0.23                           135 301 
+ MOAC BZ EP   4   0435 51.8    62                         39   -0.80 0  227 303 
+ MOAC BE E        0436               0.5 0.24                           227 303 
+ MOAC BN ES   4   0436 27.7          5.4 0.6              39   10.54 0  227 303 
+ RCC  BZ EP       0435 58.1    67                         38   -0.3710  274 281 
+ RCC  BE E        0436                                                  274 281 
+ RCC  BN ES       0436 27.7          3.5 0.14             38    0.3310  274 281 
+ LMGC BZ EP        436 15.92  113                         38    0.4110  410 279 
+ LMGC BE ES        436 56.68                              38   -0.3410  410 279 
+ LMGC BN  IAML     437  2.61        18.3 0.13                           410 279 
+ LMGC BE  IAML     437  4.83        25.6 0.18                           410 279 
+                                                                                
+ 2011  1 3 0708 29.8 R  19.441 -73.106  0.1  CUB  3 0.3 2.7LCUB 3.1CCUB        1
+ GAP=335        0.77     999.9   999.9999.9 -0.4486E+08  0.1742E+09 -0.3347E+08E
+ ACTION:UP  13-09-18 11:15 OP:Mary STATUS:               ID:20110103070921     I
+ 2011-01-03-0709-21S.LMGC__003                                                 6
+ 2011-01-03-0708-23S.MASC__003                                                 6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+ MASC BZ EP        7 8 51.70   92                         40   -0.3910  143 305 
+ MASC BN ES       0709 08.8                               40    0.1910  143 305 
+ MASC BE  IAML     7 9 10.25       244.4 0.20                           143 305 
+ MASC BN  IAML     7 9 10.54       250.4 0.23                           143 305 
+ RCC  BZ EP       0709 09.5  78                           38    0.1310  278 283 
+ RCC  BN ES       0709 38.9                               38    0.2210  278 283 
+ LMGC BZ EP        7 9 26.61   85                         38    0.2610  414 280 
+ LMGC BZ E         7 9 26.62                                            414 280 
+ LMGC BE ES        710  7.81                              38   -0.4110  414 280 
+ LMGC BN  AML      710 12.99         5.0 0.10                           414 280 
+ LMGC BE  AML      710 15.46         5.9 0.14                           414 280 
+                                                                                
+ 2011  113 0435 51.2 L  19.484 -75.440 10.0  CUB  4 1.1 1.9LCUB 2.5CCUB        1
+ GAP=233       18.09      91.9    49.9149.8 -0.1182E+04 -0.2136E+04  0.4234E+04E
+ ACTION:UP  11-01-13 06:25 OP:OCM  STATUS:               ID:20110113043557     I
+ 2011-01-13-0435-57S.RCC___003                                                 6
+ 2011-01-13-0436-13S.LMGC__003                                                 6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+ RCC  BZ IPg       436  0.95   59                         93   -0.1810 62.6 335 
+ RCC  BZ E         436  1.00                  125.4 11.9    -28        62.6 335 
+ RCC  BE ISg       436  5.50                              93   -2.9810 62.6 335 
+ RCC  BN  AML      436  5.82       752.9 0.20                          62.6 335 
+ RCC  BE  AML      436  6.11       294.7 0.09                          62.6 335 
+ MOAC BE E        0436             6.213 0.24                           139  21 
+ MOAC BZ EP       0436 11.3  65               192.7       65 -8-0.5910  139  21 
+ MOAC BN ES       0436 27.7        4.112 0.14             65    0.5110  139  21 
+ MASC BE E        0436             2.238 0.14                           148  59 
+ MASC BZ EP       0436 15.3  40               126.4       65-99 2.2410  148  59 
+ MASC BN ES       0436 29.2        1.984 0.14             65   -0.0310  148  59 
+ LMGC BZ EP        436 18.01   59                         62    1.3910  176 291 
+ LMGC BZ E         436 18.02                  110.9  7.3      0         176 291 
+ LMGC BN ES        436 35.09                              62   -0.3410  176 291 
+ LMGC BN  AML      436 36.62       130.1 0.10                           176 291 
+ LMGC BE  AML      436 36.67       101.0 0.09                           176 291 
+                                                                                
+ 2011  114 1740 27.8 L  19.607 -75.526 20.5  CUB  3 0.2 1.3LCUB 1.9CCUB        1
+ GAP=315        0.57       5.3     4.9 85.5 -0.1774E+01 -0.2407E+03  0.1124E+03E
+ ACTION:UP  11-02-21 15:35 OP:rmr  STATUS:               ID:20110114174000     I
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+ RCC  BE E        1740            105.09 0.04                          46.5 337 
+ RCC  BZ EPG      1740 35.8  31                           93    0.1910 46.5 337 
+ RCC  BN ESG      1740 41.14      31.68  0.02             93   -0.2910 46.5 337 
+ SABC SE E        1740            7.70   0.07                          92.5  22 
+ SABC SZ EPG      1740 41.7  26                           91    0.0010 92.5  22 
+ SABC SN ESG      1740 52.0       2.26   0.04             91   -0.0310 92.5  22 
+ PINC SE E        1740            9.24   0.04                           101 344 
+ PINC SZ EPG      1740 42.73 31                           90   -0.1710  101 344 
+ PINC SN ESG      1740 54.4       8.99   0.03             90    0.3010  101 344 
+                                                                                
+ 2011  116 1010 43.2 R  19.536 -73.085 20.0  CUB  3 1.1 2.5LCUB 2.5CCUB        1
+ GAP=338       19.51     176.5   401.6999.9 -0.1471E+05  0.3882E+06 -0.2312E+05E
+ ACTION:UP  11-01-16 06:52 OP:ocm  STATUS:               ID:20110116101122     I
+ 2011-01-16-1011-22S.LMGC__003                                                 6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+ MASC BZ EP       1011 03.6  40               100.0       77-19 0.3310  139 301 
+ MASC BN ES       1011 16.2                               77   -1.9510  139 301 
+ RCC  BZ EPN      1011 21.36 54               191.3        0 91-0.1610  278 281 
+ RCC  BN ES       1011 48.9                               72    0.1710  278 281 
+ LMGC BZ EP       1011 40.15                              72    2.2710  415 279 
+ LMGC BZ E        1011 40.19                  158.5  5.6     61         415 279 
+ LMGC BN ES       1012 17.71                              72   -0.6610  415 279 
+ LMGC BN  AML     1012 20.79         5.0 0.09                           415 279 
+ LMGC BE  AML     1012 21.97         4.0 0.12                           415 279 
